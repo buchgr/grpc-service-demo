@@ -1,4 +1,4 @@
-workspace(name = "org_pubref_grpc_greetertimer")
+workspace(name = "exchange_o_gram")
 
 git_repository(
     name = "org_pubref_rules_protobuf",
